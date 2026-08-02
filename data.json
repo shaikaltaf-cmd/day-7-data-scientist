@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "id": 101,
+      "name": "  Rahul Sharma ",
+      "age": 21,
+      "branch": "cse",
+      "cgpa": 8.7,
+      "email": "RAHUL@GMAIL.COM"
+    },
+    {
+      "id": 102,
+      "name": "Anjali Reddy",
+      "age": null,
+      "branch": "ECE ",
+      "cgpa": 9.1,
+      "email": "anjali.reddy@gmail.com "
+    },
+    {
+      "id": 103,
+      "name": " imran khan",
+      "age": 22,
+      "branch": "MECH",
+      "cgpa": "",
+      "email": "imran@gmail.com"
+    },
+    {
+      "id": 104,
+      "name": "Priya",
+      "age": 20,
+      "branch": "CSE",
+      "cgpa": 8.9,
+      "email": "priya@gmail.com"
+    },
+    {
+      "id": 104,
+      "name": "Priya",
+      "age": 20,
+      "branch": "CSE",
+      "cgpa": 8.9,
+      "email": "priya@gmail.com"
+    },
+    {
+      "id": 105,
+      "name": "Kiran Kumar ",
+      "age": 23,
+      "branch": " it",
+      "cgpa": 7.8,
+      "email": "KIRAN@GMAIL.COM"
+    },
+    {
+      "id": 106,
+      "name": "",
+      "age": 21,
+      "branch": "EEE",
+      "cgpa": 8.2,
+      "email": "eee.student@gmail.com"
+    },
+    {
+      "id": 107,
+      "name": "Sana",
+      "age": 22,
+      "branch": "Civil",
+      "cgpa": 9.4,
+      "email": null
+    }
+  ]
+}
